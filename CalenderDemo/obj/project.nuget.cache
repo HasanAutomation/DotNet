@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ITczqiRgYeYQym7fQpVoPMKuRV6beEGnw2awUkNfq6Gtleo3nFlUva1PI49iJEhjEPB1rmeQr5bGpzdJWoz4Nw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kk631\\source\\repos\\CalenderDemo\\CalenderDemo\\CalenderDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kk631\\.nuget\\packages\\google.apis\\1.48.0\\google.apis.1.48.0.nupkg.sha512",
+    "C:\\Users\\kk631\\.nuget\\packages\\google.apis.auth\\1.48.0\\google.apis.auth.1.48.0.nupkg.sha512",
+    "C:\\Users\\kk631\\.nuget\\packages\\google.apis.calendar.v3\\1.48.0.2028\\google.apis.calendar.v3.1.48.0.2028.nupkg.sha512",
+    "C:\\Users\\kk631\\.nuget\\packages\\google.apis.core\\1.48.0\\google.apis.core.1.48.0.nupkg.sha512",
+    "C:\\Users\\kk631\\.nuget\\packages\\google.apis.drive.v3\\1.48.0.2030\\google.apis.drive.v3.1.48.0.2030.nupkg.sha512",
+    "C:\\Users\\kk631\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
